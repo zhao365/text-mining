@@ -1,0 +1,925 @@
+1
+634
+0.04854517611026034
+Stem: i
+Words: [u'i', u"i'm", u"i'll", u"i've", u"i'd", u"i'ii"]
+Example sentences: 
+-i:
+Episode 1
+00:00:22.555000
+00:00:25.888000
+about the unusual day I had last wek.
+Episode 1
+00:00:36.269000
+00:00:38.100000
+I made breakfast for my family.
+-i'm:
+Episode 1
+00:07:48.835000
+00:07:49.927000
+Sorry I'm late.
+Episode 1
+00:09:19.859000
+00:09:22.327000
+I'm sorry, you guys, I just...
+-i'll:
+Episode 1
+00:18:26.672000
+00:18:28.537000
+Fine, I'll go.
+Episode 1
+00:25:28.760000
+00:25:32.025000
+Just give me two minutes.
+I'll be right over.
+-i've:
+Episode 1
+00:11:56.315000
+00:12:00.149000
+Lynette, I've been looking
+all over for you.
+Episode 1
+00:22:45.030000
+00:22:47.863000
+It's the best job I've ever had.
+-i'd:
+Episode 1
+00:16:43.035000
+00:16:48.473000
+That's... great. I'd invite you in,
+but I was in the middle of something.
+Episode 1
+00:21:05.063000
+00:21:07.327000
+I'd appreciate you saying something.
+-i'ii:
+Episode 2
+00:10:46.045000
+00:10:49.708000
+I didn't mean to disturb you.
+I'II... I'll see you later.
+
+----------------------------------------------------
+2
+466
+0.03568147013782542
+Stem: you
+Words: [u'you', u"you're", u"you've", u"you'll", u"you'd"]
+Example sentences: 
+-you:
+Episode 1
+00:00:19.452000
+00:00:22.444000
+In this morning's paper,
+you may come across an article
+Episode 1
+00:03:33.980000
+00:03:36.141000
+No. You are going to behave today.
+-you're:
+Episode 1
+00:06:07.633000
+00:06:10.295000
+I know you're
+out of your minds with grief.
+Episode 1
+00:06:14.040000
+00:06:16.600000
+I will need
+the baskets back once you're done.
+-you've:
+Episode 1
+00:02:07.727000
+00:02:10.628000
+Yes, you've got to send an ambulance.
+Episode 1
+00:02:10.697000
+00:02:13.598000
+You've got to send one right now.
+-you'll:
+Episode 1
+00:08:15.428000
+00:08:20.331000
+You'll love this, he said, "It doesn't
+mean anything. It was just sex."
+Episode 3
+00:20:52.618000
+00:20:56.179000
+Well, you'll be cruising so fast
+on this, no one will even notice.
+-you'd:
+Episode 1
+00:15:11.310000
+00:15:15.110000
+I heard Dad's girlfriend ask
+if you'd dated anyone since the divorce.
+Episode 1
+00:20:35
+00:20:38.401000
+- You'd rather I served pork and beans?
+- Apologize now, I beg.
+
+----------------------------------------------------
+3
+343
+0.026263399693721285
+Stem: to
+Words: [u'to']
+Example sentences: 
+-to:
+Episode 1
+00:01:03.196000
+00:01:07.929000
+That's why it was so astonishing when
+I decided to go to my hallway closet
+Episode 1
+00:01:03.196000
+00:01:07.929000
+That's why it was so astonishing when
+I decided to go to my hallway closet
+
+----------------------------------------------------
+4
+324
+0.024808575803981624
+Stem: the
+Words: [u'the']
+Example sentences: 
+-the:
+Episode 1
+00:00:22.555000
+00:00:25.888000
+about the unusual day I had last wek.
+Episode 1
+00:00:50.216000
+00:00:54.448000
+In truth, I spent the day
+as I spent every other day,
+
+----------------------------------------------------
+5
+271
+0.020750382848392042
+Stem: not
+Words: [u'not', u"don't", u"can't", u"didn't", u"doesn't", u"won't", u"isn't", u"couldn't", u"wasn't", u"wouldn't", u"haven't", u"shouldn't", u"aren't", u"weren't", u"hasn't", u"hadn't"]
+Example sentences: 
+-not:
+Episode 1
+00:03:09.856000
+00:03:11.619000
+"Why not quit yourjob?"
+Episode 1
+00:03:16.262000
+00:03:18.230000
+But this was not the case.
+-don't:
+Episode 1
+00:07:29.115000
+00:07:33.142000
+I don't like that word, Julie.
+But, yeah, that's a great example.
+Episode 1
+00:09:14.487000
+00:09:16.455000
+I don't know.
+-can't:
+Episode 1
+00:09:53.626000
+00:09:55.526000
+He can't face doing it by himself.
+Episode 1
+00:12:38.691000
+00:12:41.956000
+We want to swim and you can't stop us!
+-didn't:
+Episode 1
+00:02:59.679000
+00:03:03.308000
+She didn't cook much
+while moving up the corporate ladder.
+Episode 1
+00:03:03.449000
+00:03:05.144000
+She didn't have the time.
+-doesn't:
+Episode 1
+00:08:15.428000
+00:08:20.331000
+You'll love this, he said, "It doesn't
+mean anything. It was just sex."
+Episode 1
+00:08:40.286000
+00:08:43.380000
+An erect penis
+doesn't have a conscience.
+-won't:
+Episode 1
+00:12:55.808000
+00:12:59.437000
+Think I won't get in this pool
+and just grab you? Get out!
+Episode 1
+00:20:01.633000
+00:20:06.900000
+He's deathly allergic. And I won't even
+dignify your navy bean suggestion.
+-isn't:
+Episode 2
+00:04:58.798000
+00:05:00.993000
+Isn't it worse to be in the dark,
+Episode 2
+00:16:42.334000
+00:16:44.427000
+Mr. Solis isn't catching on, is he?
+-couldn't:
+Episode 1
+00:18:09.755000
+00:18:11.347000
+you couldn't live without.
+Episode 2
+00:03:10.423000
+00:03:15.019000
+- that what Carlos couldn't see...
+- Yeah. Sure, no problem.
+-wasn't:
+Episode 1
+00:30:08.473000
+00:30:10.668000
+I wasn't expecting you for a week.
+Episode 2
+00:37:35.286000
+00:37:38.312000
+No, Julie, she wasn't married to Javier.
+-wouldn't:
+Episode 1
+00:05:09.342000
+00:05:12.675000
+Absolutely. We wouldn't want them
+to think we're not happy.
+Episode 1
+00:10:40.373000
+00:10:42.967000
+- I wouldn't eat that if I were you.
+- Why?
+-haven't:
+Episode 1
+00:21:30.789000
+00:21:34.555000
+Tom, this is my fifth message
+and you still haven't called me back.
+Episode 2
+00:15:11.110000
+00:15:13.840000
+- I haven't slept through the night...
+- Ma'am.
+-shouldn't:
+Episode 1
+00:05:47.880000
+00:05:50.974000
+- Hello, Mrs. Van De Kamp.
+- You shouldn't have.
+Episode 1
+00:13:43.556000
+00:13:46.923000
+Lynette shouldn't have ben
+so concerned about my husband.
+-aren't:
+Episode 1
+00:08:43.456000
+00:08:46.016000
+Even the limp ones aren't that ethical.
+Episode 1
+00:23:17.295000
+00:23:19.729000
+Then why aren't you happy?
+-weren't:
+Episode 2
+00:37:31.349000
+00:37:35.217000
+You weren't married to the tattooed guy
+they took away in handcuffs?
+Episode 3
+00:19:31.703000
+00:19:37.801000
+but we weren't sure that you were ready
+for any kind of social engagement.
+-hasn't:
+Episode 1
+00:33:22.500000
+00:33:27.267000
+The lawn hasn't ben mowed. I've
+had it. We're getting a real gardener.
+Episode 1
+00:33:34.412000
+00:33:37.506000
+- It hasn't. Fel this grass.
+- I'm not feling the grass.
+-hadn't:
+Episode 1
+00:22:18.003000
+00:22:21.336000
+We all say, if you hadn't quit
+you'd be running the place by now.
+Episode 2
+00:05:52.785000
+00:05:56.118000
+my friends still hadn't agred
+on what to do with the note.
+
+----------------------------------------------------
+6
+268
+0.020520673813169986
+Stem: it
+Words: [u'it', u'its', u"it's", u"it'll"]
+Example sentences: 
+-it:
+Episode 1
+00:00:54.521000
+00:01:00.892000
+quietly polishing the routine of my life
+until it gleamed with perfection.
+Episode 1
+00:01:03.196000
+00:01:07.929000
+That's why it was so astonishing when
+I decided to go to my hallway closet
+-its:
+Episode 2
+00:04:22.562000
+00:04:25.463000
+My friends gathered
+to discuss its implications.
+Episode 2
+00:05:21.988000
+00:05:25.048000
+They knew that every family
+has its secrets.
+-it's:
+Episode 1
+00:02:03.656000
+00:02:07.649000
+It's my neighbor. I think she's been
+shot. There's blood everywhere.
+Episode 1
+00:05:58.458000
+00:06:01.393000
+It's got rolls, muffins,
+breakfast type things.
+-it'll:
+Episode 2
+00:12:45.731000
+00:12:49.064000
+We can scrape of the burnt part
+and it'll look good as new.
+Episode 3
+00:07:31.884000
+00:07:33.977000
+- A dinner party?
+- Yeah. It'll be fun.
+
+----------------------------------------------------
+7
+250
+0.01914241960183767
+Stem: a
+Words: [u'a']
+Example sentences: 
+-a:
+Episode 1
+00:01:08.034000
+00:01:12.767000
+and retrieve a revolver
+that had never ben used.
+Episode 1
+00:01:21.748000
+00:01:25.149000
+who'd ben startled
+by a strange popping sound.
+
+----------------------------------------------------
+8
+181
+0.013859111791730475
+Stem: and
+Words: [u'and']
+Example sentences: 
+-and:
+Episode 1
+00:01:08.034000
+00:01:12.767000
+and retrieve a revolver
+that had never ben used.
+Episode 1
+00:02:17.337000
+00:02:21.671000
+And, for a moment, Mrs. Huber
+stood motionless in her kitchen,
+
+----------------------------------------------------
+9
+179
+0.013705972434915772
+Stem: have
+Words: [u'having', u'have', u"i've", u"you've", u"haven't", u"we've", u"they've", u"would've", u"could've", u"should've", u"must've"]
+Example sentences: 
+-having:
+Episode 1
+00:09:03.075000
+00:09:05.566000
+I wish he was having sex
+with someone else.
+Episode 1
+00:10:03.502000
+00:10:07.734000
+If Mary Alice was having problems,
+she should've let us help her.
+-have:
+Episode 1
+00:03:03.449000
+00:03:05.144000
+She didn't have the time.
+Episode 1
+00:03:29.475000
+00:03:31.534000
+But she didn't have the time.
+-i've:
+Episode 1
+00:11:56.315000
+00:12:00.149000
+Lynette, I've been looking
+all over for you.
+Episode 1
+00:22:45.030000
+00:22:47.863000
+It's the best job I've ever had.
+-you've:
+Episode 1
+00:02:07.727000
+00:02:10.628000
+Yes, you've got to send an ambulance.
+Episode 1
+00:02:10.697000
+00:02:13.598000
+You've got to send one right now.
+-haven't:
+Episode 1
+00:21:30.789000
+00:21:34.555000
+Tom, this is my fifth message
+and you still haven't called me back.
+Episode 2
+00:15:11.110000
+00:15:13.840000
+- I haven't slept through the night...
+- Ma'am.
+-we've:
+Episode 2
+00:00:59.959000
+00:01:03.690000
+And we can suddenly se the world
+we've left behind so clearly.
+Episode 2
+00:26:38.930000
+00:26:42.127000
+- Yeah, we've lost ours.
+- Really?
+-they've:
+Episode 3
+00:32:56.574000
+00:33:01.034000
+They've always been wound tight,
+but I've never seen 'em like that.
+-would've:
+Episode 1
+00:03:25.705000
+00:03:29.402000
+Lynette would've appreciated the irony
+if she'd thought about it.
+Episode 2
+00:34:20.291000
+00:34:25.092000
+She had a feling the truth would've
+ben lost on her husband anyway.
+-could've:
+Episode 1
+00:38:58.202000
+00:39:01.194000
+Paramedic said she was lucky.
+She could've ben killed.
+Episode 2
+00:05:26.392000
+00:05:29.384000
+And as my son and husband
+could've told them,
+-should've:
+Episode 1
+00:10:03.502000
+00:10:07.734000
+If Mary Alice was having problems,
+she should've let us help her.
+Episode 1
+00:15:41.941000
+00:15:44.671000
+I should've brought
+something by earlier.
+-must've:
+Episode 1
+00:10:22.955000
+00:10:27.153000
+Gabby, the woman killed herself.
+Something must've been going on.
+Episode 2
+00:00:11.011000
+00:00:15.209000
+Gabby, the woman killed herself.
+Something must've been going on.
+
+----------------------------------------------------
+10
+169
+0.012940275650842267
+Stem: that
+Words: [u'that', u"that's", u"that'll"]
+Example sentences: 
+-that:
+Episode 1
+00:00:29.562000
+00:00:32.395000
+but that all changed last Thursday.
+Episode 1
+00:01:08.034000
+00:01:12.767000
+and retrieve a revolver
+that had never ben used.
+-that's:
+Episode 1
+00:01:03.196000
+00:01:07.929000
+That's why it was so astonishing when
+I decided to go to my hallway closet
+Episode 1
+00:07:13.966000
+00:07:16.992000
+they think that's the only way
+to solve their problems.
+-that'll:
+Episode 2
+00:04:38.444000
+00:04:42.437000
+That'll be fun. "We have proof your wife
+killed herself over a dark secret."
+
+----------------------------------------------------
+11
+167
+0.012787136294027565
+Stem: do
+Words: [u'do', u'doing', u"don't", u"doesn't"]
+Example sentences: 
+-do:
+Episode 1
+00:02:49.602000
+00:02:53.766000
+And, as people do in these situations,
+they brought food.
+Episode 1
+00:03:11.691000
+00:03:16.151000
+"Kids do better with stay-at-home moms.
+It would be so much less stressful."
+-doing:
+Episode 1
+00:05:23.990000
+00:05:26.151000
+And for doing her own gardening.
+Episode 1
+00:09:53.626000
+00:09:55.526000
+He can't face doing it by himself.
+-don't:
+Episode 1
+00:07:29.115000
+00:07:33.142000
+I don't like that word, Julie.
+But, yeah, that's a great example.
+Episode 1
+00:09:14.487000
+00:09:16.455000
+I don't know.
+-doesn't:
+Episode 1
+00:08:15.428000
+00:08:20.331000
+You'll love this, he said, "It doesn't
+mean anything. It was just sex."
+Episode 1
+00:08:40.286000
+00:08:43.380000
+An erect penis
+doesn't have a conscience.
+
+----------------------------------------------------
+12
+162
+0.012404287901990812
+Stem: was
+Words: [u'was', u"wasn't"]
+Example sentences: 
+-was:
+Episode 1
+00:01:03.196000
+00:01:07.929000
+That's why it was so astonishing when
+I decided to go to my hallway closet
+Episode 1
+00:01:17.177000
+00:01:21.671000
+My body was discovered
+by my neighbor, Mrs. Martha Huber,
+-wasn't:
+Episode 1
+00:30:08.473000
+00:30:10.668000
+I wasn't expecting you for a week.
+Episode 2
+00:37:35.286000
+00:37:38.312000
+No, Julie, she wasn't married to Javier.
+
+----------------------------------------------------
+13
+149
+0.01140888208269525
+Stem: are
+Words: [u'are', u"you're", u"we're", u"they're", u"aren't"]
+Example sentences: 
+-are:
+Episode 1
+00:03:33.980000
+00:03:36.141000
+No. You are going to behave today.
+Episode 1
+00:03:57.804000
+00:03:59.897000
+Are you willing to risk that?
+-you're:
+Episode 1
+00:06:07.633000
+00:06:10.295000
+I know you're
+out of your minds with grief.
+Episode 1
+00:06:14.040000
+00:06:16.600000
+I will need
+the baskets back once you're done.
+-we're:
+Episode 1
+00:05:09.342000
+00:05:12.675000
+Absolutely. We wouldn't want them
+to think we're not happy.
+Episode 1
+00:21:42.501000
+00:21:46.301000
+so unless you call me back by noon,
+we're getting a plane and joining you.
+-they're:
+Episode 1
+00:07:19.872000
+00:07:24.400000
+Sometimes people pretend to be one way,
+when they're totally different inside.
+Episode 1
+00:20:32.864000
+00:20:34.923000
+and they're eating,
+everyone's happy.
+-aren't:
+Episode 1
+00:08:43.456000
+00:08:46.016000
+Even the limp ones aren't that ethical.
+Episode 1
+00:23:17.295000
+00:23:19.729000
+Then why aren't you happy?
+
+----------------------------------------------------
+14
+140
+0.010719754977029096
+Stem: we
+Words: [u'we', u"we're", u"we'll", u"we've", u"we'd"]
+Example sentences: 
+-we:
+Episode 1
+00:05:09.342000
+00:05:12.675000
+Absolutely. We wouldn't want them
+to think we're not happy.
+Episode 1
+00:06:10.403000
+00:06:12.598000
+Yes, we are.
+-we're:
+Episode 1
+00:05:09.342000
+00:05:12.675000
+Absolutely. We wouldn't want them
+to think we're not happy.
+Episode 1
+00:21:42.501000
+00:21:46.301000
+so unless you call me back by noon,
+we're getting a plane and joining you.
+-we'll:
+Episode 1
+00:18:11.457000
+00:18:16.520000
+But I'm learning to deal with it. So can
+I tell Tanaka we'll be there tomorrow?
+Episode 2
+00:07:05.191000
+00:07:07.125000
+We'll find a marriage counselor.
+-we've:
+Episode 2
+00:00:59.959000
+00:01:03.690000
+And we can suddenly se the world
+we've left behind so clearly.
+Episode 2
+00:26:38.930000
+00:26:42.127000
+- Yeah, we've lost ours.
+- Really?
+-we'd:
+Episode 1
+00:10:17.516000
+00:10:20.679000
+No. If Mary Alice was having a crisis,
+we'd have known.
+Episode 2
+00:00:05.905000
+00:00:08.738000
+If Mary Alice was having a crisis,
+we'd have known.
+
+----------------------------------------------------
+15
+135
+0.010336906584992343
+Stem: of
+Words: [u'of']
+Example sentences: 
+-of:
+Episode 1
+00:00:32.465000
+00:00:36.196000
+Of course, everything semed
+quite normal at first.
+Episode 1
+00:00:54.521000
+00:01:00.892000
+quietly polishing the routine of my life
+until it gleamed with perfection.
+
+----------------------------------------------------
+16
+129
+0.009877488514548238
+Stem: am
+Words: [u'am', u"i'm"]
+Example sentences: 
+-am:
+Episode 1
+00:03:36.216000
+00:03:39.947000
+I am not going to be humiliated
+in front of the entire neighborhood.
+Episode 1
+00:03:40.019000
+00:03:42.544000
+And, just so you know
+how serious I am...
+-i'm:
+Episode 1
+00:07:48.835000
+00:07:49.927000
+Sorry I'm late.
+Episode 1
+00:09:19.859000
+00:09:22.327000
+I'm sorry, you guys, I just...
+
+----------------------------------------------------
+17
+128
+0.009800918836140888
+Stem: in
+Words: [u'in']
+Example sentences: 
+-in:
+Episode 1
+00:00:19.452000
+00:00:22.444000
+In this morning's paper,
+you may come across an article
+Episode 1
+00:00:50.216000
+00:00:54.448000
+In truth, I spent the day
+as I spent every other day,
+
+----------------------------------------------------
+18
+125
+0.009571209800918837
+Stem: she
+Words: [u"she's", u'she', u"she'd", u"she'll"]
+Example sentences: 
+-she's:
+Episode 1
+00:02:03.656000
+00:02:07.649000
+It's my neighbor. I think she's been
+shot. There's blood everywhere.
+Episode 1
+00:07:24.477000
+00:07:29.005000
+Like how Dad's girlfriend always says
+nice things, but we know she's a bitch.
+-she:
+Episode 1
+00:01:36.463000
+00:01:41.901000
+she decided to return the blender she
+had borrowed from me six months before.
+Episode 1
+00:01:36.463000
+00:01:41.901000
+she decided to return the blender she
+had borrowed from me six months before.
+-she'd:
+Episode 1
+00:03:25.705000
+00:03:29.402000
+Lynette would've appreciated the irony
+if she'd thought about it.
+Episode 2
+00:41:09.867000
+00:41:13.997000
+Susan could suddenly
+se something she'd never sen before.
+-she'll:
+Episode 1
+00:39:25.863000
+00:39:30.061000
+Absolutely. She'll get through this.
+She'll find a way to survive.
+Episode 1
+00:39:25.863000
+00:39:30.061000
+Absolutely. She'll get through this.
+She'll find a way to survive.
+
+----------------------------------------------------
+19
+122
+0.009341500765696785
+Stem: for
+Words: [u'for']
+Example sentences: 
+-for:
+Episode 1
+00:00:36.269000
+00:00:38.100000
+I made breakfast for my family.
+Episode 1
+00:01:27.454000
+00:01:31.220000
+Mrs. Huber tried to think of a reason
+for dropping in on me unannounced.
+
+----------------------------------------------------
+20
+119
+0.009111791730474732
+Stem: my
+Words: [u'my']
+Example sentences: 
+-my:
+Episode 1
+00:00:16.683000
+00:00:19.379000
+My name is Mary Alice Young.
+Episode 1
+00:00:25.959000
+00:00:29.486000
+Normally, there's never anything
+newsworthy about my life,
+
+----------------------------------------------------
